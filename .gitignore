@@ -1,5 +1,3 @@
 /node_modules/
 .turbo
-apps/server/prisma/generated/client.ts
-apps/server/prisma/generated/index.ts
-apps/server/prisma/generated/libquery_engine-darwin-arm64.dylib.node
+apps/server/prisma/generated
